@@ -1,3 +1,5 @@
+<img src="hello-there.gif"/>
+
 ### Hi there 👋
 
 <!--
