@@ -4,7 +4,7 @@
 
 <p align="center">My strength lies in swiftly <b>adapting to new challenges</b>⛰️, with a knack for <b>rapid learning</b> 📚 and a constant hunger to <b>broaden my skill set</b> 🚀. I thrive <b>under pressure</b>, consistently delivering <b>quality results</b>, and approach every task with <b>diligence</b> and an unyielding drive for <b>personal</b> and <b>professional growth</b> 💪.</p>
 
-<p align="center">My skill set 📑 encompasses <b>intermediate</b> proficiency in <b><i>Java</i></b>, <b><i>C++</i></b> and <b><i>MySQL</i></b>, complemented by a foundational understanding of <b><i>Python</i></b>. I'm fueled by the desire to refine my abilities and make impactful contributions to innovative projects 📈.</p>
+<p align="center">My skill set 📑 encompasses <b>intermediate</b> proficiency in <b><i>Java</i></b>, <b><i>C++</i></b> and <b><i>SQL(MySQL, Oracle)</i></b>, complemented by a foundational understanding of <b><i>Python</i></b>. I'm fueled by the desire to refine my abilities and make impactful contributions to innovative projects 📈.</p>
 
 <p align="center"><b>✨Let's collaborate and create something remarkable!✨</b></p>
 
