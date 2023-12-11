@@ -39,7 +39,7 @@
 **🛠️ Practicing Java and learning python and spring** <br>
 **🧑‍💼 Looking for a job as a Junior Java Developer** <br>
 
-**📅 Plans on 2023:**
+**📅 Plans on 2024:**
 - [X] **Learn Python**
 - [ ] **Learn Spring**
 - [ ] **Get first comercial experience**
