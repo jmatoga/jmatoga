@@ -25,9 +25,7 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,cpp,mysql,py,git,github,idea,linux,html,css,maven" />
-  </a>
 </p>
 
 ##
@@ -45,10 +43,10 @@
 - [ ] **Get first comercial experience**
 - [ ] **Learn basics of AI**
 
-**📫 How to reache me:** 
-- jakub.matoga.it@gmail.com
-- www.linkedin.com/in/jakub-matoga <br>
+**📫 How to reache me:** <br><br>
+&nbsp;&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/jakub.matoga.it%40gmail.com-black?style=for-the-badge&logo=gmail&labelColor=grey&color=242424)](mailto:jakub.matoga.it@gmail.com) <br>
+&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/jakub--matoga-black?style=for-the-badge&logo=linkedin&labelColor=grey&color=242424)](https://www.linkedin.com/in/jakub-matoga/) <br>
 
 **⚡ Star Wars fan** <br>
 **⛵ Love sailing** <br>
-***☝️ The only way to improve your coding skills is to share your knowledge and help others*** 
+***☝️ The only way to improve your coding skills is to share your knowledge and help others*** <br><br>
