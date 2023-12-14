@@ -13,9 +13,10 @@
 <p align="center"><b>Below you can see my statistics 📈</b></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmatoga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="121" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoga&layout=compact&theme=dark&hide_border=true" height="121"/>
-  <img src="https://streak-stats.demolab.com?user=jmatoga&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j M[ Y]" height="121" alt="streak graph"/>
+  <a href="https://github.com/jmatoga?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmatoga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="121" alt="stats graph"/></a>
+  <a href="https://github.com/jmatoga?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoga&layout=compact&theme=dark&hide_border=true" height="121" alt="most used language image"/></a>
+  <a href="https://github.com/jmatoga?tab=repositories"><img src="https://streak-stats.demolab.com?user=jmatoga&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j M[ Y]" height="121" alt="streak graph"/></a> 
 </div>
 
 ##
