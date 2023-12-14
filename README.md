@@ -25,7 +25,9 @@
 ###
 
 <p align="center">
+  <a href="https://github.com/jmatoga?tab=repositories">
     <img src="https://skillicons.dev/icons?i=java,spring,cpp,mysql,py,git,github,idea,linux,html,css,maven" />
+  </a>
 </p>
 
 ##
