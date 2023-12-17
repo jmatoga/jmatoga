@@ -33,11 +33,8 @@
 
 ##
 
-<img align="right" height="175" src="yoda.gif"/>
-
-###
-
 **🛠️ Practicing Java and learning python and spring** <br>
+<img align="right" height="175" src="yoda.gif"/>
 **🧑‍💼 Looking for a job as a Junior Java Developer** <br>
 
 **📅 Plans on 2024:**
@@ -46,9 +43,13 @@
 - [ ] **Get first comercial experience**
 - [ ] **Learn basics of AI**
 
+##
+
 **📫 How to reache me:** <br><br>
 &nbsp;&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/jakub.matoga.it%40gmail.com-black?style=for-the-badge&logo=gmail&labelColor=grey&color=242424)](mailto:jakub.matoga.it@gmail.com) <br>
 &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/jakub--matoga-black?style=for-the-badge&logo=linkedin&labelColor=grey&color=242424)](https://www.linkedin.com/in/jakub-matoga/) <br>
+
+##
 
 **⚡ Star Wars fan** <br>
 **⛵ Love sailing** <br>
