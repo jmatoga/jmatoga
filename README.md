@@ -33,8 +33,8 @@
 
 ##
 
-**🛠️ Practicing Java and learning python and spring** <br>
 <img align="right" height="175" src="yoda.gif"/>
+**🛠️ Practicing Java and learning python and spring** <br>
 **🧑‍💼 Looking for a job as a Junior Java Developer** <br>
 
 **📅 Plans on 2024:**
