@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/jmatoga?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,spring,cpp,mysql,py,git,github,idea,linux,html,css,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cpp,mysql,py,git,github,idea,linux,html,css,maven" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 
 **📅 Plans on 2024:**
 - [X] **Learn Python**
-- [ ] **Learn Spring**
+- [X] **Learn Spring**
 - [ ] **Get first comercial experience**
 - [ ] **Learn basics of AI**
 
