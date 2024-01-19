@@ -41,7 +41,7 @@
 **📅 Plans on 2024:**
 - [X] **Learn Python**
 - [X] **Learn Spring**
-- [ ] **Get first comercial experience**
+- [X] **Get first comercial experience**
 - [ ] **Learn basics of AI**
 
 ##
