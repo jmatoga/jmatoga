@@ -35,8 +35,8 @@
 
 <img align="right" height="175" src="yoda.gif"/>
 
-**🛠️ Practicing Java and learning python and spring** <br>
-**🧑‍💼 Looking for a job as a Junior Java Developer** <br>
+**🧑‍💼 Junior Java Developer at Futurum Technology Ltd.** <br>
+**🛠️ Now I'm practicing Java and Spring and learning python** <br>
 
 **📅 Plans on 2024:**
 - [X] **Learn Python**
